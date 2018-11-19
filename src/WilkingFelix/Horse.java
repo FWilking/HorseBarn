@@ -1,4 +1,5 @@
 package WilkingFelix;
 
-public class Horse {
+public interface Horse {
+
 }
