@@ -1,9 +1,9 @@
 package WilkingFelix;
 
 public class HorseBarn {
-    private final Horse[] horses;
+    public Mustang[] horses;
 
-    public HorseBarn(Horse[] horses) {
+    public HorseBarn(Mustang[] horses) {
         this.horses = horses;
     }
     public void consolidate(){
